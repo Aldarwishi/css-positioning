@@ -2,7 +2,7 @@
     background-color: rgb(255, 187, 0);
     border: 1px solid black;
     text-align: center;
-    height: 60px;
+    height: ;
 }
 
 .header p {
@@ -23,7 +23,7 @@
 .main {
     background-color: rgb(142, 4, 184);
     border: 1px solid black ;
-    width: 1107px;
+    width: 785px;
     height: 448px;
     float: right;
     clear: both;
@@ -41,6 +41,7 @@
     border: 1px solid black;
     text-align: center;
     height: 60px;
+    margin-top: 5px;
 
 }
 
