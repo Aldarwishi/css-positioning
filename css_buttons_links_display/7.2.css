@@ -1,0 +1,113 @@
+* {
+    box-sizing: border-box;
+    /* margin: 0; */
+    padding: 0;
+    
+}
+
+li, a, button {
+
+    font-weight: 500;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: #0088a9;
+}
+
+nav_links {
+    list-style: none;
+}
+
+.nav_links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav_links li a {
+    transition: all 0.3s ease 0s;
+}
+
+.nav_links li a:hover {
+    color: #ffffff;
+}
+
+button {
+    padding: 9px 25px;
+    background-color: black;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+button:hover {
+    background-color: #d8d8d8;
+}
+
+
+
+
+
+
+
+
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    max-width: 300px;
+    margin-top: 150px;
+    text-align: center;
+    float: none;
+    margin-left: 45%;
+    height: 500px;
+
+}
+
+.title {
+    color:grey;
+    font-size:18px;
+    align-content: center;
+    text-align: center;
+    font-family: 'Alumni Sans';
+}
+
+button1 {
+    border: none;
+    outline:0;
+    display: inline-block;
+    padding: 8px;
+    color:white;
+    background-color:black;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 22px;
+    color:rgb(0, 0, 0);
+    
+}
+
+button:hover:hover, a:hover {
+    opacity: 0.7;
+}
+
+p {
+    font-family: 'Gill Sans';
+}
+h1 {
+    font-family:serif;
+}
+
