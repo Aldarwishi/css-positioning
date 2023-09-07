@@ -67,7 +67,6 @@ button:hover {
     text-align: center;
     float: none;
     margin-left: 45%;
-    height: 500px;
 
 }
 
@@ -100,7 +99,7 @@ a {
     
 }
 
-button:hover:hover, a:hover {
+button1:hover:hover, a:hover {
     opacity: 0.7;
 }
 
